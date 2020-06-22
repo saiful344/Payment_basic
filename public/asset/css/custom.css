@@ -1,0 +1,60 @@
+.tb-head{
+	background: #FADC9C;
+}
+table {
+  border-collapse: collapse;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.css-mine {
+  margin-top: 2em;
+  clear: both;
+}
+.border-none{
+	border: none!important;
+}
+.form-point{
+	display: block;
+    width: 100%;
+    height: calc(1.5em + .75rem + 2px);
+    padding: .375rem .75rem;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #495057;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+	border-top: none;
+    border-left: none;
+    border-right: none;
+    border-radius: 0;
+    margin-bottom: 10px;
+}
+.form-point-nav{
+	display: block;
+    width: 100%;
+    height: calc(1.5em + .75rem + 2px);
+    padding: .375rem .75rem;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #495057;
+    background-color: #c5c5c5;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    border-radius: .25rem;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+
+.form-point:focus{
+    color: #495057;
+    outline: none!important;
+}
+.btn-ark{
+	background: #FADC9C;
+}
+.text-ark{
+	color: #FADC9C;
+}
